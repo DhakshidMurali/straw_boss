@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1065742783132",
+    "firebase_url": "https://straw-boss-bbfae-default-rtdb.firebaseio.com",
+    "project_id": "straw-boss-bbfae",
+    "storage_bucket": "straw-boss-bbfae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065742783132:android:532834451a62533d87d359",
+        "android_client_info": {
+          "package_name": "com.example.straw_boss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065742783132-jjjsuqsk8nntal2tjdi519091nt8eirq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.straw_boss",
+            "certificate_hash": "b915144fe2a4b86e9e3dbe660383b5ba29bfca1e"
+          }
+        },
+        {
+          "client_id": "1065742783132-co40i2aopjvt3alt3qejk7m4qlur9n61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLpBCSKm9YmVbblKyRy7zEGvruuOZuxa8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065742783132-co40i2aopjvt3alt3qejk7m4qlur9n61.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

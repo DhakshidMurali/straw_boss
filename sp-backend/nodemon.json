@@ -1,0 +1,7 @@
+{
+  "env": {
+    "DB_USER": "vpbs",
+    "DB_PASS": "spdatabase123",
+    "DB_NAME": "test-mern"
+  }
+}
